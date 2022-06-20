@@ -1,0 +1,64 @@
+html, body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+.bg {
+  background-image: url('Images/R.jfif');
+  background-size: cover;
+  padding-bottom: 3%;
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.nav {
+  margin-left: 2%;
+  margin-right: 2%;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-weight: bold;
+  color: #848484;
+}
+
+.porscheGirl911 {
+  font-family: Anton;
+  color: white;
+  font-weight: normal;
+  font-size: 7vw;
+  line-height: 120%;
+  margin-bottom: 7%;
+}
+
+.left {
+  width: 30%;
+  margin-left: 15%;
+  margin-top: 14%;
+}
+
+.blogButton {
+  background-color: #0031DE;
+  padding-left: 4.5%;
+  padding-right: 4.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  color: white;
+  font-size: .9vw;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-weight: bold;
+  margin-left: 3%;
+}
+
+.cindy {
+  display: block;
+  text-align:center;
+  margin-top: 10%;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-size: .8vw;
+  color: white;
+}
